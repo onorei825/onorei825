@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for a job.
+- 👯 I’m looking to collaborate on any projects.
+
 <!--
 **onorei825/onorei825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
